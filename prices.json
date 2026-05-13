@@ -1,0 +1,44 @@
+{
+  "_meta": {
+    "description": "Базовые цены Windboat для marin-at.com. Источник: windboat.ru",
+    "currency": "RUB",
+    "updated": "2026-05-13",
+    "note": "При обновлении цен меняйте поле price_from и дату updated"
+  },
+  "windboat_46_dcx": {
+    "name": "Windboat 4.6 DCx",
+    "price_from": 1420000
+  },
+  "windboat_46_dc_evofish": {
+    "name": "Windboat 4.6 DC EvoFish",
+    "price_from": 1195000
+  },
+  "windboat_49_dcx": {
+    "name": "Windboat 4.9 DCx",
+    "price_from": 1880000
+  },
+  "windboat_49_evofish": {
+    "name": "Windboat 4.9 EvoFish",
+    "price_from": 1920000
+  },
+  "windboat_50_evofish": {
+    "name": "Windboat 5.0 EvoFish",
+    "price_from": 2150000
+  },
+  "windboat_60_dcx": {
+    "name": "Windboat 6.0 DCx",
+    "price_from": 2750000
+  },
+  "windboat_60_evofish": {
+    "name": "Windboat 6.0 EvoFish",
+    "price_from": 2960000
+  },
+  "windboat_65_evofish": {
+    "name": "Windboat 6.5 EvoFish",
+    "price_from": 3490000
+  },
+  "windboat_70_cabin": {
+    "name": "Windboat 7.0 Cabin",
+    "price_from": 5270000
+  }
+}
