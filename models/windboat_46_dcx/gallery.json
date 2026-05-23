@@ -1,0 +1,23 @@
+{
+  "_meta": {
+    "model": "Windboat 4.6 DCx",
+    "model_slug": "windboat_46_dcx",
+    "updated": "2026-05-16",
+    "source": "https://windboat.ru/dcx/windboat_4_6_dcx (gallery 27)"
+  },
+  "gallery": {
+    "section": {
+      "eyebrow": "Галерея",
+      "title": "Медиа",
+      "subtitle": "Лодка в реальных условиях — на воде, на берегу и крупным планом"
+    },
+    "items": [
+      { "id": "01", "image": "01.jpg", "span": "large-tall" },
+      { "id": "02", "image": "02.jpg", "span": "square" },
+      { "id": "03", "image": "03.jpg", "span": "square" },
+      { "id": "04", "image": "04.jpg", "span": "wide" },
+      { "id": "05", "image": "05.jpg", "span": "small" },
+      { "id": "06", "image": "06.jpg", "span": "small" }
+    ]
+  }
+}
