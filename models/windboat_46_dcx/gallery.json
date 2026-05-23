@@ -3,21 +3,22 @@
     "model": "Windboat 4.6 DCx",
     "model_slug": "windboat_46_dcx",
     "updated": "2026-05-16",
-    "source": "https://windboat.ru/dcx/windboat_4_6_dcx (gallery 27)"
+    "source": "https://windboat.ru/dcx/windboat_4_6_dcx (gallery 27)",
+    "_note": "Размер плитки определяется позицией внутри страницы (по 6 фото): 1=hero, 2-3=side, 4-6=tile. Чтобы добавить фото — просто допиши объект в items. Каждые 6 фото = новая страница, листается свайпом/стрелками."
   },
   "gallery": {
     "section": {
       "eyebrow": "Галерея",
       "title": "Медиа",
-      "subtitle": "Лодка в реальных условиях — на воде, на берегу и крупным планом"
+      "subtitle": "Ракурсы, детали и особенности дизайна"
     },
     "items": [
-      { "id": "01", "image": "01.jpg", "span": "large-tall" },
-      { "id": "02", "image": "02.jpg", "span": "square" },
-      { "id": "03", "image": "03.jpg", "span": "square" },
-      { "id": "04", "image": "04.jpg", "span": "wide" },
-      { "id": "05", "image": "05.jpg", "span": "small" },
-      { "id": "06", "image": "06.jpg", "span": "small" }
+      { "id": "01", "image": "01.jpg" },
+      { "id": "02", "image": "02.jpg" },
+      { "id": "03", "image": "03.jpg" },
+      { "id": "04", "image": "04.jpg" },
+      { "id": "05", "image": "05.jpg" },
+      { "id": "06", "image": "06.jpg" }
     ]
   }
 }
