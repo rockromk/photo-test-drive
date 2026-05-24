@@ -1,0 +1,79 @@
+{
+  "_meta": {
+    "model": "Windboat 4.9 DCx",
+    "model_slug": "windboat_49_dcx",
+    "updated": "2026-05-24",
+    "source": "https://windboat.ru/dcx/windboat_4_9_dcx",
+    "_note_images": "Каждая item имеет поле `images: []` — массив имён файлов в подпапке. Карточка показывает первое фото, попап — карусель по всему массиву.",
+    "_note_descriptions": "Описания у особенностей пока пустые — на офсайте windboat.ru их нет. Обновим, как появятся."
+  },
+  "features": {
+    "section": {
+      "eyebrow": "DCx-серия · 5,4 метра",
+      "title": "Особенности",
+      "subtitle": "Универсальная лодка с просторным кокпитом, мощностью до 115 л.с. и продуманным хранением для рыбалки и отдыха"
+    },
+    "items": [
+      {
+        "id": "01",
+        "category": "Кокпит",
+        "title": "Многофункциональный диван",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "01-divan/01.jpg",
+          "01-divan/02.jpg",
+          "01-divan/03.jpg",
+          "01-divan/04.jpg",
+          "01-divan/05.jpg"
+        ]
+      },
+      {
+        "id": "02",
+        "category": "Хранение",
+        "title": "Хранение тента",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "02-tent/01.jpg",
+          "02-tent/02.jpg",
+          "02-tent/03.jpg",
+          "02-tent/04.jpg"
+        ]
+      },
+      {
+        "id": "03",
+        "category": "Рыбалка",
+        "title": "Рундук для спиннингов",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "03-spinningi/01.jpg",
+          "03-spinningi/02.jpg"
+        ]
+      },
+      {
+        "id": "04",
+        "category": "Электрика",
+        "title": "Рундук для тяговых АКБ",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "04-akb/01.jpg",
+          "04-akb/02.jpg",
+          "04-akb/03.jpg"
+        ]
+      },
+      {
+        "id": "05",
+        "category": "Хранение",
+        "title": "Дополнительный рундук",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "05-runduk/01.jpg"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_meta": {
+    "model": "Windboat 4.9 DCx",
+    "model_slug": "windboat_49_dcx",
+    "updated": "2026-05-24",
+    "source": "https://windboat.ru/dcx/windboat_4_9_dcx",
+    "_note": "12 фото — две страницы carousel по 6 (PAGE_SIZE задан в MEDIA-блоке)"
+  },
+  "gallery": {
+    "section": {
+      "eyebrow": "Галерея",
+      "title": "Медиа",
+      "subtitle": "Лодка на воде, кокпит, носовая часть и крупные планы деталей"
+    },
+    "items": [
+      { "id": "01", "image": "01.jpg" },
+      { "id": "02", "image": "02.jpg" },
+      { "id": "03", "image": "03.jpg" },
+      { "id": "04", "image": "04.jpg" },
+      { "id": "05", "image": "05.jpg" },
+      { "id": "06", "image": "06.jpg" },
+      { "id": "07", "image": "07.jpg" },
+      { "id": "08", "image": "08.jpg" },
+      { "id": "09", "image": "09.jpg" },
+      { "id": "10", "image": "10.jpg" },
+      { "id": "11", "image": "11.jpg" },
+      { "id": "12", "image": "12.jpg" }
+    ]
+  }
+}
