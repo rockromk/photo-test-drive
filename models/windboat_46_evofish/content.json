@@ -1,23 +1,24 @@
 {
   "_meta": {
-    "model": "Windboat 4.6 DC EvoFish",
-    "model_slug": "windboat_46_dc_evofish",
+    "model": "Windboat 4.6 EvoFish",
+    "model_slug": "windboat_46_evofish",
     "updated": "2026-05-24",
-    "source": "https://windboat.ru/evofish/windboat_4_6_dc_evofish",
+    "source": "https://windboat.ru/evofish/windboat_4.6_evofish",
+    "_note_status": "Заготовка под будущую модель 4.6 EvoFish (без DC). На офсайте есть страница и галерея, но нет блока «Особенности» и схемы габаритов. Roman: \"у нас будет такая лодка\".",
     "_note_images": "Каждая item имеет поле `images: []` — массив имён файлов в подпапке. Карточка показывает первое фото, попап — карусель по всему массиву.",
-    "_note_features": "На офсайте 4.6 DC EvoFish заголовки и описания особенностей пустые — карточки оформлены как is-empty (только category + title, без description). Категории взяты из табов офсайта: КОНЦЕПЦИЯ / КОРПУС / ОСНАЩЕНИЕ."
+    "_note_features": "На офсайте у 4.6 EvoFish отсутствует блок «Особенности» — карточки оформлены как is-empty (только category + title, без description). Когда офсайт обновит — заполнить description/description_long."
   },
   "features": {
     "section": {
-      "eyebrow": "EvoFish-серия · 4,98 м · DC",
+      "eyebrow": "EvoFish-серия · 4,98 м",
       "title": "Особенности",
-      "subtitle": "Компактная рыболовная лодка с двойной консолью (Dual Console): мореходный корпус, лайвел 94 л и оснащение под серьёзную рыбалку."
+      "subtitle": "Компактная двухконсольная лодка серии EvoFish: рыболовная палуба, мореходный корпус и универсальный кокпит."
     },
     "items": [
       {
         "id": "01",
-        "category": "Концепция · 4.6 DC EvoFish",
-        "title": "Главное",
+        "category": "Концепция · 4.6 EvoFish",
+        "title": "Главное (заготовка)",
         "description": "",
         "description_long": "",
         "images": [
@@ -33,8 +34,7 @@
         "description_long": "",
         "images": [
           "02-korpus/01.jpg",
-          "02-korpus/02.jpg",
-          "02-korpus/03.jpg"
+          "02-korpus/02.jpg"
         ]
       },
       {
@@ -45,18 +45,19 @@
         "description_long": "",
         "images": [
           "03-kokpit/01.jpg",
-          "03-kokpit/02.jpg"
+          "03-kokpit/02.jpg",
+          "03-kokpit/03.jpg"
         ]
       },
       {
         "id": "04",
-        "category": "Оснащение",
-        "title": "Рыболовная комплектация",
+        "category": "Носовая палуба",
+        "title": "Рыбалка стоя",
         "description": "",
         "description_long": "",
         "images": [
-          "04-osnaschenie/01.jpg",
-          "04-osnaschenie/02.jpg"
+          "04-nosovaya/01.jpg",
+          "04-nosovaya/02.jpg"
         ]
       },
       {

@@ -1,15 +1,15 @@
 {
   "_meta": {
-    "model": "Windboat 4.6 DC EvoFish",
-    "model_slug": "windboat_46_dc_evofish",
+    "model": "Windboat 4.6 EvoFish",
+    "model_slug": "windboat_46_evofish",
     "updated": "2026-05-24",
-    "source": "https://windboat.ru/evofish/windboat_4_6_dc_evofish"
+    "source": "https://windboat.ru/evofish/windboat_4.6_evofish"
   },
   "gallery": {
     "section": {
       "eyebrow": "Галерея",
       "title": "Медиа",
-      "subtitle": "Ракурсы, детали и особенности дизайна 4.6 DC EvoFish."
+      "subtitle": "Ракурсы, детали и особенности дизайна 4.6 EvoFish."
     },
     "items": [
       { "id": "01", "image": "01.jpg" },
