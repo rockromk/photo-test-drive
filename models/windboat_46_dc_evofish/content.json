@@ -1,0 +1,76 @@
+{
+  "_meta": {
+    "model": "Windboat 4.6 DC EvoFish",
+    "model_slug": "windboat_46_dc_evofish",
+    "updated": "2026-05-24",
+    "source": "https://windboat.ru/evofish/windboat_4.6_evofish",
+    "_note_images": "Каждая item имеет поле `images: []` — массив имён файлов в подпапке. Карточка показывает первое фото, попап — карусель по всему массиву.",
+    "_note_features": "На офсайте у 4.6 EvoFish отсутствует блок «Особенности» — карточки оформлены как is-empty (только category + title, без description). Когда офсайт обновит — заполнить description/description_long."
+  },
+  "features": {
+    "section": {
+      "eyebrow": "EvoFish-серия · 4,98 м",
+      "title": "Особенности",
+      "subtitle": "Компактная двухконсольная лодка серии EvoFish: рыболовная палуба, мореходный корпус и универсальный кокпит."
+    },
+    "items": [
+      {
+        "id": "01",
+        "category": "Концепция · 4.6 EvoFish",
+        "title": "Главное",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "01-koncepciya/01.jpg",
+          "01-koncepciya/02.jpg"
+        ]
+      },
+      {
+        "id": "02",
+        "category": "Корпус",
+        "title": "Алюминий АМг · 3 / 2 мм",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "02-korpus/01.jpg",
+          "02-korpus/02.jpg"
+        ]
+      },
+      {
+        "id": "03",
+        "category": "Кокпит",
+        "title": "Двойная консоль (Dual Console)",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "03-kokpit/01.jpg",
+          "03-kokpit/02.jpg",
+          "03-kokpit/03.jpg"
+        ]
+      },
+      {
+        "id": "04",
+        "category": "Носовая палуба",
+        "title": "Рыбалка стоя",
+        "description": "",
+        "description_long": "",
+        "images": [
+          "04-nosovaya/01.jpg",
+          "04-nosovaya/02.jpg"
+        ]
+      },
+      {
+        "id": "05",
+        "category": "На воде",
+        "title": "Управляемость и динамика",
+        "description": "",
+        "description_long": "",
+        "wide": true,
+        "images": [
+          "05-na-vode/01.jpg",
+          "05-na-vode/02.jpg"
+        ]
+      }
+    ]
+  }
+}
